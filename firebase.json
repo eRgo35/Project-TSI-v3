@@ -1,7 +1,7 @@
 {
   "hosting": {
     "site": "tsi3-mczyz",
-    "public": "public",
+    "public": "dist/TSI-Page",
     "ignore": [
       "firebase.json",
       "**/.*",

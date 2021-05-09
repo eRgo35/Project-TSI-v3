@@ -20,10 +20,11 @@ export class MainComponent implements OnInit {
   }
 
   versions: Version[] = [
-    {name: 'Wersja 1.1', url: 'https://tsi1.mczyz.ml/1.1'},
-    {name: 'Wersja 1.5', url: 'https://tsi1.mczyz.ml/1.5'},
-    {name: 'Wersja 2.0.26', url: 'https://tsi2.mczyz.ml'},
-    {name: 'Wersja 3.1.2', url: '/'}
+    {name: 'Wersja 1.1', url: 'https://tsi1.mczyz.icu/1.1'},
+    {name: 'Wersja 1.5', url: 'https://tsi1.mczyz.icu/1.5'},
+    {name: 'Wersja 2.1.0', url: 'https://tsi2.mczyz.icu'},
+    {name: 'Wersja 3.1.3', url: 'https://tsi3.mczyz.icu'},
+    {name: 'Wersja 4.1.1', url: 'https://tsi.mczyz.icu'}
   ];
 
   selected = '';
